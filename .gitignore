@@ -1,5 +1,6 @@
 # Embedding and Model Cache
 .cache/
+.embedding_cache/
 model_cache/
 models/
 *.cache
@@ -14,8 +15,9 @@ sentence_transformers_cache/
 # Output Files
 output/
 *.json
-challenge1b_output.json
+**/challenge1b_output.json
 collection*_output.json
+sample-dataset/**/challenge1b_output.json
 
 # Python Cache and Bytecode
 __pycache__/
