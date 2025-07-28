@@ -1,0 +1,1018 @@
+{
+  "metadata": {
+    "input_documents": [
+      {
+        "filename": "The Ultimate PDF Sharing Checklist.pdf",
+        "title": "The Ultimate PDF Sharing Checklist"
+      },
+      {
+        "filename": "Learn Acrobat - Export_2.pdf",
+        "title": "Learn Acrobat - Export_2"
+      },
+      {
+        "filename": "Test Your Acrobat Exporting Skills.pdf",
+        "title": "Test Your Acrobat Exporting Skills"
+      },
+      {
+        "filename": "Learn Acrobat - Edit_2.pdf",
+        "title": "Learn Acrobat - Edit_2"
+      },
+      {
+        "filename": "Learn Acrobat - Fill and Sign.pdf",
+        "title": "Learn Acrobat - Fill and Sign"
+      },
+      {
+        "filename": "Learn Acrobat - Generative AI_2.pdf",
+        "title": "Learn Acrobat - Generative AI_2"
+      },
+      {
+        "filename": "Learn Acrobat - Create and Convert_2.pdf",
+        "title": "Learn Acrobat - Create and Convert_2"
+      },
+      {
+        "filename": "Learn Acrobat - Request e-signatures_2.pdf",
+        "title": "Learn Acrobat - Request e-signatures_2"
+      },
+      {
+        "filename": "Learn Acrobat - Edit_1.pdf",
+        "title": "Learn Acrobat - Edit_1"
+      },
+      {
+        "filename": "Learn Acrobat - Share_1.pdf",
+        "title": "Learn Acrobat - Share_1"
+      },
+      {
+        "filename": "Learn Acrobat - Share_2.pdf",
+        "title": "Learn Acrobat - Share_2"
+      },
+      {
+        "filename": "Learn Acrobat - Generative AI_1.pdf",
+        "title": "Learn Acrobat - Generative AI_1"
+      },
+      {
+        "filename": "Learn Acrobat - Export_1.pdf",
+        "title": "Learn Acrobat - Export_1"
+      },
+      {
+        "filename": "Learn Acrobat - Create and Convert_1.pdf",
+        "title": "Learn Acrobat - Create and Convert_1"
+      },
+      {
+        "filename": "Learn Acrobat - Request e-signatures_1.pdf",
+        "title": "Learn Acrobat - Request e-signatures_1"
+      }
+    ],
+    "persona": "digital documentation specialist",
+    "job_to_be_done": "exploring advanced PDF editing, exporting, and collaboration features in Adobe Acrobat",
+    "processing_timestamp": "2025-07-28T17:54:48.236566Z",
+    "failed_files": {}
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 2,
+      "section_title": "The AI-powered features in Acrobat and Acrobat Reader support multiple document types,",
+      "importance_rank": 1,
+      "similarity_score": 0.7717335820198059
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 12,
+      "section_title": "PDFMaker is an Acrobat feature that operates within many business applications, such as",
+      "importance_rank": 2,
+      "similarity_score": 0.7511993050575256
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 3,
+      "section_title": "The generative AI features in Acrobat and Acrobat Reader significantly improve",
+      "importance_rank": 3,
+      "similarity_score": 0.7408273220062256
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 13,
+      "section_title": "Acrobat provides an option to use Adobe Create PDF cloud service in addition to a local",
+      "importance_rank": 4,
+      "similarity_score": 0.7248237133026123
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "Introduction",
+      "importance_rank": 5,
+      "similarity_score": 0.7090052366256714
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 26,
+      "section_title": "Overview",
+      "importance_rank": 6,
+      "similarity_score": 0.6928260922431946
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 14,
+      "section_title": "In Windows, Acrobat installs both an Acrobat PDFMaker toolbar and an Adobe PDF menu in",
+      "importance_rank": 7,
+      "similarity_score": 0.6867144703865051
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 3,
+      "section_title": "Sharing PDFs with Adobe Acrobat is straightforward and efficient,",
+      "importance_rank": 8,
+      "similarity_score": 0.6660932898521423
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 2,
+      "section_title": "Use the generative AI features in Acrobat and Acrobat Reader to quickly scan through",
+      "importance_rank": 9,
+      "similarity_score": 0.6596328616142273
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 13,
+      "section_title": "About editing text and images",
+      "importance_rank": 10,
+      "similarity_score": 0.6065239310264587
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "including PDFs, DOCX, PPTX, TXT, and RTF files. AI Assistant supports Microsoft Teams and\nZoom meeting transcripts. The capabilities improve comprehension and save time across\nvarious document types.",
+      "page_number": 2,
+      "total_sentences": 3
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "Microsoft Office applications, AutoCAD, and Lotus Notes. When you install Acrobat,\nPDFMaker controls appear in the work area of the authoring application. Note: Some PDFMaker features are not available in certain versions of the authoring\napplications.",
+      "page_number": 12,
+      "total_sentences": 4
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "comprehension, help you get insights, and produce high-quality content quickly. Here are the\nmain benefits. - Improved comprehension: You can better understand complex PDF documents\nbecause the features provide insights and more context around the content.",
+      "page_number": 3,
+      "total_sentences": 5
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "conversion to convert Microsoft Word documents to PDFs. The created PDFs are high-quality\nand provide exceptional visual fidelity. They are well-tagged for better accessibility.",
+      "page_number": 13,
+      "total_sentences": 4
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "Export Expert: Test Your Acrobat Exporting Skills\nWelcome to the ultimate test of your Acrobat exporting skills! Think you know everything\nabout saving, converting, and exporting PDFs? It's time to put your knowledge to the test.",
+      "page_number": 1,
+      "total_sentences": 3
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "Acrobat allows you to export images and text selections from a PDF to different file formats. Each format uses unique conversion settings when you export text or image selections.",
+      "page_number": 26,
+      "total_sentences": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "many popular authoring applications. You can use either the toolbar buttons or the Adobe\nPDF menu (the Action menu in Lotus Notes) to create PDFs, but the menu also provides access\nto conversion settings. Although many of the conversion options are common to all authoring\napplications, a few are application-specific.",
+      "page_number": 14,
+      "total_sentences": 3
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "whether you're working on a general project or managing real estate\ndocuments. By following these checklists, you can ensure that your\nsharing process is smooth and professional. Start sharing smarter today.",
+      "page_number": 3,
+      "total_sentences": 3
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "lengthy, complex PDF content and get answers or generate a summary. Note: The generative AI features in Acrobat and Acrobat Reader support English, French,\nGerman, Spanish, Italian, Portuguese, or Japanese. To understand the governing terms,\nreview Adobe's Generative AI User Guidelines.",
+      "page_number": 2,
+      "total_sentences": 4
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "Adobe Acrobat provides powerful tools and capabilities for editing PDF images and text. You might encounter formatting challenges that require manual adjustments. Acrobat's\nimage-editing capabilities are limited, and using high-resolution images can lead to\nperformance issues due to larger file sizes.",
+      "page_number": 13,
+      "total_sentences": 5
+    }
+  ],
+  "skipped_sections": [
+    {
+      "page_number": 1,
+      "section_title": "Use the Select tool to copy and paste individual images from a PDF to the clipboard, another",
+      "text": "application, or a file.\nOpen the Preferences dialog box if you cannot select an image because of overlapping text.\nSelect Acrobat in the upper-left (macOS) or Menu in the upper-left (Windows), then\nselect Preferences. Under Categories, Select General. Then select the Make Select tool select\nimages before text.\n1. Using the Select tool , do one of the following:\n\u2022 To select the entire image, select the image or drag a rectangle around it.\n\u2022 To select a portion of an image, hold the pointer over the image until the cross-\nhair icon appears, and then drag a rectangle around the portion.\nNote: To deselect an image and start over, click outside it.\n2. Right-click the image and select copy. Once done, you can paste it to a new file or a\nclipboard.\n",
+      "document": "Learn Acrobat - Export_2.pdf",
+      "title": "Learn Acrobat - Export_2"
+    },
+    {
+      "page_number": 2,
+      "section_title": "4. In the Save As dialog, specify where you want to save the file, name the file, and then",
+      "text": "select Save.\n",
+      "document": "Learn Acrobat - Export_2.pdf",
+      "title": "Learn Acrobat - Export_2"
+    },
+    {
+      "page_number": 1,
+      "section_title": "Introduction",
+      "text": "1. Make the desired changes in the app. Bear in mind the following:\n\u2022 If you change the dimensions of the image, the image may not align correctly in\nthe PDF.\n\u2022 Transparency information is preserved only for masks that are specified as\nindex values in an indexed color space.\n\u2022 If you're working in Photoshop, flatten the image.\n\u2022 Image masks aren't supported.\n\u2022 If you change image modes while editing the image, you may lose valuable\ninformation that can be applied only in the original mode.\n\u2022\n2. In the editing app, choose File > Save. The object is automatically updated and\ndisplayed in the PDF when you bring Acrobat to the foreground.\nNote: For Photoshop, if the image is in a format supported by Photoshop 6.0 or later, your\nedited image is saved back into the PDF. However, if the image is in an unsupported format,\nPhotoshop handles the image as a generic PDF image. The edited image is saved to disk\ninstead of the PDF.\n",
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "title": "Learn Acrobat - Edit_2"
+    },
+    {
+      "page_number": 3,
+      "section_title": "Rotate, move, delete, extract, or renumber",
+      "text": "pages in a PDF\n",
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "title": "Learn Acrobat - Edit_2"
+    },
+    {
+      "page_number": 6,
+      "section_title": "If the document includes bookmarks, it creates one document for every top-level",
+      "text": "bookmark.\n",
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "title": "Learn Acrobat - Edit_2"
+    },
+    {
+      "page_number": 7,
+      "section_title": "If the document includes bookmarks, it creates one document for every top-level",
+      "text": "bookmark.\n",
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "title": "Learn Acrobat - Edit_2"
+    },
+    {
+      "page_number": 11,
+      "section_title": "Introduction",
+      "text": "You can't delete all pages; at least one page must remain in the document.\nNote: If you select Use Logical Page Numbers in the Page Display panel of\nthe Preferences dialog box, you can enter a page number in parentheses to delete the\ncorresponding page. For example, if the first page in the document is numbered i, you can\nenter (1) in the Enter Page Range list, and the page is deleted.\n",
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "title": "Learn Acrobat - Edit_2"
+    },
+    {
+      "page_number": 11,
+      "section_title": "5. In the Replace Pages dialog box, under Original, enter the pages to be replaced in the",
+      "text": "original document.\n",
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "title": "Learn Acrobat - Edit_2"
+    },
+    {
+      "page_number": 13,
+      "section_title": "Renumber pages in a PDF",
+      "text": "The page numbers on the document pages don't always match the page numbers that appear\nbelow the page thumbnails and in the right Page Navigation toolbar. Pages are numbered\nwith integers, starting with page 1 for the first page of the document. Because some PDFs may\ncontain front matter, such as a copyright page and table of contents, their body pages may\nnot follow the numbering shown in the right Page Navigation toolbar.\n",
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "title": "Learn Acrobat - Edit_2"
+    },
+    {
+      "page_number": 16,
+      "section_title": "Enhance scanned file or camera images for",
+      "text": "clear PDFs\n",
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "title": "Learn Acrobat - Edit_2"
+    },
+    {
+      "page_number": 10,
+      "section_title": "Complete then suggests or even automatically enters responses that match your typing in",
+      "text": "other form fields. The suggestions appear in a pop-up menu, from which you can select a\nmatch. The Auto-Complete feature is off by default, so you must enable it in the forms\npreferences if you want to use it.\n",
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "title": "Learn Acrobat - Fill and Sign"
+    },
+    {
+      "page_number": 10,
+      "section_title": "To remove an entry from the Auto-Complete memory, such as a misspelled entry that you",
+      "text": "found and corrected later, edit the list in the preferences.\nNote:\nThe forms preferences apply to the way that the application handles open forms as you work.\nThe preferences aren\u2019t saved with the PDF forms themselves.\n",
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "title": "Learn Acrobat - Fill and Sign"
+    },
+    {
+      "page_number": 10,
+      "section_title": "Enable the Auto-Complete option",
+      "text": "1. From the hamburger menu, select Preferences (Windows\u00ae), or select Acrobat\n/ Acrobat Reader > Preferences (macOS).\n2. In the Preferences dialog, select Forms as the preference category.\n3. Under Auto-Complete, choose Basic or Advanced from the menu.\n",
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "title": "Learn Acrobat - Fill and Sign"
+    },
+    {
+      "page_number": 10,
+      "section_title": "Delete an entry from the Auto-Complete memory",
+      "text": "1. Open the Preferences dialog. From the hamburger menu,\nselect Preferences (Windows\u00ae), or select Acrobat / Acrobat\nReader > Preferences (macOS).\n2. Select Forms on the left.\n3. Click Edit Entry List under Auto-Complete.\n",
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "title": "Learn Acrobat - Fill and Sign"
+    },
+    {
+      "page_number": 16,
+      "section_title": "6. Select Apply, and then click on the place in the PDF where you want to place the",
+      "text": "signature or initial.\n",
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "title": "Learn Acrobat - Fill and Sign"
+    },
+    {
+      "page_number": 16,
+      "section_title": "1. Go to Acrobat or Acrobat Reader Home and then from under Agreements,",
+      "text": "select Adobe Acrobat Sign.\n",
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "title": "Learn Acrobat - Fill and Sign"
+    },
+    {
+      "page_number": 1,
+      "section_title": "Introduction",
+      "text": "Note:\n",
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "title": "Learn Acrobat - Generative AI_2"
+    },
+    {
+      "page_number": 6,
+      "section_title": "The words spoken get highlighted simultaneously to ensure you always have the context and",
+      "text": "no confusion.\n",
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "title": "Learn Acrobat - Generative AI_2"
+    },
+    {
+      "page_number": 6,
+      "section_title": "You can also select any sentence, and the read-aloud feature will play from the selected",
+      "text": "sentence.\n",
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "title": "Learn Acrobat - Generative AI_2"
+    },
+    {
+      "page_number": 6,
+      "section_title": "1. Select the speed button on the lower left, then select the speed at which you want to",
+      "text": "play the generated response.\n",
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "title": "Learn Acrobat - Generative AI_2"
+    },
+    {
+      "page_number": 8,
+      "section_title": "GenAl Assistant allows users to process up to 10 documents simultaneously, including non-",
+      "text": "PDF formats (.doc, .docx, .rtf, .txt, .ppt, .pptx), each up to 600 pages and 100MB. Users can\nswitch between documents, with responses consolidated from various sources and proper\nattributions. Persistent history support is also included to provide continuous access to\nprevious interactions.\n1. Open Acrobat and then open a document. Select AI Assistant. Select the add\nbutton from the lower left. It opens the Select files to use with AI Assistant. Select the\nfiles you want to add and select Next from the upper right.\nAlternatively, you can also use AI Assistant for multiple docs in the following ways:\n\u2022 Open Acrobat, and then select multiple files from the home view. Select the\nellipsis from the top right and then select Ask AI Assistant.\n\u2022 Select multiple files from third-party applications, and select Share > Adobe\nAcrobat > Ask AI Assistant.\n\u2022 Open Acrobat, then select Try it now from the Try AI Assistant onboarding\ncard in the home view. Then select the files you want to add and select Next\nfrom the upper right.\n2. When the file is added, chat displays the number of files added.\n3. You can enter your question or choose from suggested questions. You get generated\nresponses. If you want to view the references of the generated responses, select the\nreference numbers next to the responses. AI Assistant opens the source file first and\nthen shows you the references.\n",
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "title": "Learn Acrobat - Generative AI_2"
+    },
+    {
+      "page_number": 14,
+      "section_title": "5. Once your purchase is complete, you can assign licenses to users from the Add users",
+      "text": "to this product page.\n",
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "title": "Learn Acrobat - Generative AI_2"
+    },
+    {
+      "page_number": 4,
+      "section_title": "1. In AutoCAD, start to convert an AutoCAD file and select the Retain All Or Some",
+      "text": "Layers option.\n",
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "title": "Learn Acrobat - Create and Convert_2"
+    },
+    {
+      "page_number": 5,
+      "section_title": "Convert AutoCAD files in batches",
+      "text": "1. Choose Adobe PDF > Batch Conversion.\n2. Specify your preferences for layers, page size, plot style, and output PDFs.\nClick Conversion Settings to specify the Acrobat PDFMaker settings.\n3. In the DWG List, do any of the following:\n\u2022 Click Add Folder or Add Files, and then specify the folder or files.\n\u2022 To load a previously saved list of files, click Append List, and then specify the\nlist.\n\u2022 As needed, expand individual files and select or deselect the items you want,\nsuch as model space and layouts. To exclude or include all model space, click\nthe associated buttons.\n\u2022 To exclude a file from the conversion, deselect the file box. As needed, select\nor deselect all of the files in the list, change the order of the files, remove files,\nor clear the list.\n\u2022 To show the complete file paths, select Expand File Name(s).\n\u2022 To save the DWG list for later use, click Save List. This action saves the list in\nits current state, including the file order and file selections. You can retrieve\nthis list at any time by clicking Append List.\n4. Click Convert.\n",
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "title": "Learn Acrobat - Create and Convert_2"
+    },
+    {
+      "page_number": 5,
+      "section_title": "5. Once the conversion has finished, you can click Save Details to save a log file of the",
+      "text": "conversion.\n",
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "title": "Learn Acrobat - Create and Convert_2"
+    },
+    {
+      "page_number": 6,
+      "section_title": "The following settings appear on the Settings tab available from within most PDFMaker-",
+      "text": "enabled applications.\n",
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "title": "Learn Acrobat - Create and Convert_2"
+    },
+    {
+      "page_number": 6,
+      "section_title": "Enable Accessibility And Reflow With Tagged Adobe PDF",
+      "text": "Embeds tags in the PDF.\n",
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "title": "Learn Acrobat - Create and Convert_2"
+    },
+    {
+      "page_number": 7,
+      "section_title": "Adjusts the size of each worksheet so that all the entries on that worksheet appear on the same",
+      "text": "page of the PDF.\n",
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "title": "Learn Acrobat - Create and Convert_2"
+    },
+    {
+      "page_number": 7,
+      "section_title": "Adjusts the width of each worksheet so that all the columns on that worksheet appear on one",
+      "text": "page in the PDF.\n",
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "title": "Learn Acrobat - Create and Convert_2"
+    },
+    {
+      "page_number": 7,
+      "section_title": "Converts any PowerPoint slides that are not seen in the usual playing of the presentation to",
+      "text": "PDF pages.\n",
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "title": "Learn Acrobat - Create and Convert_2"
+    },
+    {
+      "page_number": 7,
+      "section_title": "The following options appear when you open the PDFMaker settings from within Microsoft",
+      "text": "Outlook or Lotus Notes.\n",
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "title": "Learn Acrobat - Create and Convert_2"
+    },
+    {
+      "page_number": 8,
+      "section_title": "When selected, prevents the downloading of any external Internet content, such as images,",
+      "text": "CSS, and JavaScript.\n",
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "title": "Learn Acrobat - Create and Convert_2"
+    },
+    {
+      "page_number": 8,
+      "section_title": "The following options appear when you open the PDFMaker settings from within Autodesk",
+      "text": "AutoCAD.\n",
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "title": "Learn Acrobat - Create and Convert_2"
+    },
+    {
+      "page_number": 9,
+      "section_title": "The following options appear when you open the PDFMaker settings from within Microsoft",
+      "text": "Visio.\n",
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "title": "Learn Acrobat - Create and Convert_2"
+    },
+    {
+      "page_number": 10,
+      "section_title": "Specifies whether the PDF comment windows automatically open or are closed for that",
+      "text": "reviewer\u2019s comments.\n",
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "title": "Learn Acrobat - Create and Convert_2"
+    },
+    {
+      "page_number": 12,
+      "section_title": "In many authoring applications, you can use the Print command with the Adobe PDF printer to",
+      "text": "convert your file to PDF. Your source document is converted to PostScript and fed directly to\nDistiller for conversion to PDF, without manually starting Distiller. The current Distiller\npreference settings and Adobe PDF settings are used to convert the file. If you\u2019re working with\nnonstandard page sizes, create a custom page size.\nNote:\n(Windows) For Microsoft Office documents, the Adobe PDF printer does not include some of\nthe features that are available from PDFMaker. For example, you cannot create bookmarks and\nhyperlinks using the Adobe PDF printer. If you\u2019re creating a PDF from a Microsoft\nOffice document and you want to use these features, use PDFMaker.\nThe Adobe PDF printer creates untagged PDFs. A tagged structure is required for reflowing\ncontent to a handheld device and is preferable for producing reliable results with a screen\nreader.\nCreate a PDF using the Print command (Windows)\n1. Open the file in its authoring application, and choose File > Print.\n2. Choose Adobe PDF from the printers menu.\n3. Click the Properties (or Preferences) button to customize the Adobe PDF printer\nsetting. (In some applications, you may need to click Setup in the Print dialog box to\nopen the list of printers, and then click Properties or Preferences.)\n4. In the Print dialog box, click OK.\nNote: Your PDF is saved in the folder specified by the setting of the Adobe\nPDF Output Folder in the Preferences dialog box; the default location is My\nDocuments. If you specify Prompt For Adobe PDF Filename, then a Save As dialog\nopens when you print.\nCreate a PDF using the Print command (Mac OS X)\nThe method for creating PDFs using the Print command changed in Mac OS v10.6 Snow\nLeopard with Acrobat 9.1 and later. The following procedure describes the method in both\nSnow Leopard and earlier versions of Mac OS X.\n1. Open the file in its authoring application, and choose File > Print.\n2. Choose Save As Adobe PDF from the PDF menu at the bottom of the dialog box.\n",
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "title": "Learn Acrobat - Create and Convert_2"
+    },
+    {
+      "page_number": 13,
+      "section_title": "3. For Adobe PDF Settings, choose one of the default settings, or customize the settings",
+      "text": "using Distiller. Any custom settings that you have defined are listed.\nFor most users, the default Adobe PDF conversion settings are adequate.\n4. For After PDF Creation, specify whether to open the PDF.\n5. Click Continue.\n6. Select a name and location for your PDF, and click Save.\nNote: By default, your PDF is saved with the same filename and a .pdf extension.\nAdobe PDF printing preferences (Windows)\n",
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "title": "Learn Acrobat - Create and Convert_2"
+    },
+    {
+      "page_number": 14,
+      "section_title": "Adobe PDF Printing Defaults, or Adobe PDFDocument Properties, depending on how you",
+      "text": "access it.\nTo access printing preferences:\n\u2022 Open the Printers window from the Start menu. Right-click the Adobe PDF printer, and\nchoose Printing Preferences.\n\u2022 In an authoring application such as Adobe InDesign, choose File > Print. Select Adobe\nPDF as the printer, and click the Properties (or Preferences) button. (In some\napplications, you may need to click Setup in the Print dialog box to access the list of\nprinters, and then click Properties or Preferences to customize the Adobe PDF settings.)\nPDF-specific options appear on the Adobe PDF Settings tab. The Paper Quality tab and Layout\ntab contain other familiar options for the paper source, printer ink, page orientation, and\nnumber of pages per sheet.\nNote:\nPrinting Preferences are different from printer Properties. The Preferences include Adobe PDF-\nspecific options for the conversion process; the Properties dialog box contains tabs of options\nthat are available for any type of printer.\n",
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "title": "Learn Acrobat - Create and Convert_2"
+    },
+    {
+      "page_number": 17,
+      "section_title": "In Windows, you can usually leave the Adobe PDF printer properties unchanged, unless you",
+      "text": "have configured printer sharing or set security.\nNote:\nPrinting Properties are different from printer Preferences. The Properties dialog box contains\ntabs of options that apply to any type of printer; the Preferences include conversion options\nspecifically for the Adobe PDF printer.\n",
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "title": "Learn Acrobat - Create and Convert_2"
+    },
+    {
+      "page_number": 17,
+      "section_title": "Although remote or network folders are supported, they have limited user access and",
+      "text": "security issues.\n",
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "title": "Learn Acrobat - Create and Convert_2"
+    },
+    {
+      "page_number": 2,
+      "section_title": "You can set verification preferences in advance so digital signatures are valid when you open",
+      "text": "a PDF and verification details appear with the signature. When Digital Signatures are\nvalidated, an icon appears in the document message bar to indicate the signature status.\n1. Select the hamburger menu (Windows\u00ae), or go to Acrobat (macOS)> Preferences.\n2. In the Preferences dialog box, from under categories, select Signatures.\n3. From the Verification box in the Digital Signatures panel, select More...\n4. In the 'Signature Verification Preferences' dialog that opens, you can control the\nfollowing settings:\n\u2022 Set automatic validation of signatures: With the Verify signatures when the\ndocument is opened check box selected, Acrobat automatically validates all\nsignatures in a PDF when you open the document.\n\u2022 Set verification behavior: The options specify methods that determine\nwhich plug-in to choose when verifying a signature. The appropriate plug-in\nis often selected automatically. Contact your system administrator about\nspecific plug-in requirements for validating signatures.\n\u2022 Check the revocation status of certificates: With the Require certificate\nrevocation checking to succeed... checkbox selected, Acrobat checks\ncertificates against a list of excluded certificates during validation. If you\ndeselect the check box, the revocation status for Acrobat Approval\nsignatures is ignored. The revocation status is always checked to certify\nsignatures.\n\u2022 Use expired timestamps: The option is selected by default. It uses the time\nmentioned in the timestamp or embedded in the signature, even if the\nsignature\u2019s certificate has expired. If you deselect the check box, Acrobat\ndiscards expired timestamps.\n\u2022 Set verification for time: You can select the appropriate options under\n'Verification time' to check the time at which the signature was created, to\ncheck the timestamp embedded in the signature, or to check the current\ntime.\n\u2022 Add verification information: Select appropriate options under 'Verification\ninformation' to add verification information to the signed PDF or to alert the\nuser when the verification information is too large.\n\u2022 Configure to trust the root certificates in the Windows\u00ae certificate store:\nYou can specify whether to trust all root certificates in the Windows\u00ae\nCertificates store for:\n\u2022 Validating signatures: Certificates are trusted for Acrobat Approval\nsignature validation.\n\u2022 Validating certified documents: Certificates are trusted for\ncertification signature validation.\nNote: Selecting these options can compromise security.\n",
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "title": "Learn Acrobat - Request e-signatures_2"
+    },
+    {
+      "page_number": 4,
+      "section_title": "In Acrobat or Acrobat Reader, the signature of a certified or signed document is valid if you",
+      "text": "and the signer have a trust relationship. The trust level of the certificate indicates the actions\nfor which you trust the signer.\nYou can change the trust settings of certificates to allow specific actions. For example, you can\nchange the settings to enable the dynamic content and embedded JavaScript\u2122 within the\ncertified document.\n1. Navigate to the hamburger menu (Windows) or the Acrobat menu (macOS)\n> Preferences > Signatures.\n2. For identities & Trusted Certificates, select More...\n3. From the left panel, select Trusted Certificates.\n4. Select a certificate from the list and then select Edit Trust.\n",
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "title": "Learn Acrobat - Request e-signatures_2"
+    },
+    {
+      "page_number": 5,
+      "section_title": "5. In the Edit Certificate Trust dialog that opens, select any of the following items to",
+      "text": "trust the certificate:\n\u2022 Use this certificate as a trusted root: A root certificate is an originating\nauthority in a chain of certificate authorities that issued the certificate. By\ntrusting the root certificate, you trust all certificates issued by that certificate\nauthority.\n\u2022 Signed documents or data: It acknowledges the identity of the signer.\n\u2022 Certified documents: It trusts documents in which the author has certified the\ndocument with a signature. You trust the signer for certifying documents, and\nyou accept actions that the certified document takes.\nWhen the 'Certified documents' option is selected, the following options are\navailable:\n\u2022 Dynamic content: It allows movies, sound, and other dynamic elements\nto play in a certified document.\n\u2022 Embedded high privilege JavaScript\u2122: It allows privileged JavaScript\u2122\nembedded in PDF files to run. JavaScript\u2122 files can be used in malicious\nways. It\u2019s prudent to select this option only when necessary on\ncertificates you trust.\n\u2022 Privileged system operations: It allows Internet connections, cross-\ndomain scripting, silent printing, external-object references, and\nimport/export methodology operations on certified documents.\nNote: Allow Embedded high privilege JavaScript\u2122 and Privileged system operations only\nfor sources that you trust and work closely with. For example, use these options for\nyour employer or service provider.\n6. Select OK.\n",
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "title": "Learn Acrobat - Request e-signatures_2"
+    },
+    {
+      "page_number": 6,
+      "section_title": "After reviewing the report, you can contact the author of the document about the problems",
+      "text": "listed in the report.\n",
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "title": "Learn Acrobat - Request e-signatures_2"
+    },
+    {
+      "page_number": 10,
+      "section_title": "Acrobat and Acrobat Reader can embed the necessary elements if available, and the PDF",
+      "text": "creator must enable usage rights for Acrobat Reader users by going to the hamburger\nmenu (Windows) or the Acrobat menu (macOS) > Save as other > Acrobat Reader\nextended PDF.\nNote: Embedding timestamp information requires an appropriately configured timestamp\nserver. In addition, the signature validation time must be set to Secure Time by navigating\nto Preferences > Security > Advanced Preferences > Verification tab.\n",
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "title": "Learn Acrobat - Request e-signatures_2"
+    },
+    {
+      "page_number": 11,
+      "section_title": "Add verification information at signing",
+      "text": "To add verification information while signing:\n1. Ensure that your computer can connect to the appropriate network resources.\n2. Go to Preferences > Signatures > Creation & Appearances: More and make sure that\nthe Include signature\u2019s revocation status option is selected.\n3. Sign the PDF.\n",
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "title": "Learn Acrobat - Request e-signatures_2"
+    },
+    {
+      "page_number": 3,
+      "section_title": "When you add text in a PDF, by default Acrobat chooses nearby font attributes for the new",
+      "text": "text. When you edit text, any font that isn't available on the system is substituted by a default\nfall-back font for the particular script. For example, Minion Pro is the default fall-back font for\nRoman script fonts. The substitution of unavailable fonts by default fonts can introduce\ninconsistency in the look and feel of text in a PDF document. To avoid inconsistency, choose a\nspecific font for any text that is added or modified in the PDF document from Font\nOptions under Content Editing.\n1. From the hamburger menu (Windows) or the Acrobat menu (macOS),\nchoose Preferences. The Preferences dialog box is displayed.\n(Alternatively, you can press Ctrl+K keys on Windows\u00ae or Command+K keys on\nmacOS.)\n2. In the dialog box, select Content Editing under Categories to display Font Options.\n3. Select an appropriate font in the drop-down lists:\n1. Fallback font for Editing.\n2. Default font for Add Text and Font Size.\n4. Select OK to save the changes and close the Preferences dialog box.\n",
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "title": "Learn Acrobat - Edit_1"
+    },
+    {
+      "page_number": 13,
+      "section_title": "Refer to the following topics to learn how to add, resize, move, or replace images and objects",
+      "text": "in a PDF using Acrobat.\n",
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "title": "Learn Acrobat - Edit_1"
+    },
+    {
+      "page_number": 7,
+      "section_title": "Using Markup Tool",
+      "text": "1. Open a PDF.\n",
+      "document": "Learn Acrobat - Share_1.pdf",
+      "title": "Learn Acrobat - Share_1"
+    },
+    {
+      "page_number": 7,
+      "section_title": "4. To add other markups, expand the Highlight tool menu and select the tool for other",
+      "text": "markups.\n",
+      "document": "Learn Acrobat - Share_1.pdf",
+      "title": "Learn Acrobat - Share_1"
+    },
+    {
+      "page_number": 14,
+      "section_title": "Initiate SharePoint-based shared review",
+      "text": "using Acrobat\n",
+      "document": "Learn Acrobat - Share_1.pdf",
+      "title": "Learn Acrobat - Share_1"
+    },
+    {
+      "page_number": 3,
+      "section_title": "2. The drawing markup tools are grouped under the Draw freehand tool in the floating",
+      "text": "quick tools menu on the left.\n",
+      "document": "Learn Acrobat - Share_2.pdf",
+      "title": "Learn Acrobat - Share_2"
+    },
+    {
+      "page_number": 6,
+      "section_title": "Change font size of annotation comments",
+      "text": "1. Open the Preferences dialog box by pressing Ctrl + K (Windows) or command +\nK (macOS).\n2. Under Categories, select Commenting.\n3. Select the Font Size drop-down menu and select the desired font size.\n4. Select OK.\nNote: Use the Commenting panel in the Preferences dialog box to change default pop-up\nbehavior, and other settings for creating and viewing comments\n",
+      "document": "Learn Acrobat - Share_2.pdf",
+      "title": "Learn Acrobat - Share_2"
+    },
+    {
+      "page_number": 8,
+      "section_title": "3. Select an emoticon from the dialog box or use the search bar to find and select your",
+      "text": "desired reaction.\n",
+      "document": "Learn Acrobat - Share_2.pdf",
+      "title": "Learn Acrobat - Share_2"
+    },
+    {
+      "page_number": 10,
+      "section_title": "3. To edit or resize the markup, select it and drag one of the handles to make your",
+      "text": "adjustments.\n",
+      "document": "Learn Acrobat - Share_2.pdf",
+      "title": "Learn Acrobat - Share_2"
+    },
+    {
+      "page_number": 10,
+      "section_title": "4. To add a note to the markup, select the markup and then select Add note in the quick",
+      "text": "action pop-up menu.\n",
+      "document": "Learn Acrobat - Share_2.pdf",
+      "title": "Learn Acrobat - Share_2"
+    },
+    {
+      "page_number": 15,
+      "section_title": "Commenting preferences affect both the appearance of and the way you view annotations",
+      "text": "and markups in PDFs.\nNote: A reviewer can place comments anywhere within the document frame. As a\nresult, sometimes you need to scroll or zoom out to see comments that are located off\nthe page.\nIn the Preferences dialog box under Categories, select Commenting.\n",
+      "document": "Learn Acrobat - Share_2.pdf",
+      "title": "Learn Acrobat - Share_2"
+    },
+    {
+      "page_number": 3,
+      "section_title": "User Guidelines governing your access and use of Acrobat and Acrobat Reader generative AI",
+      "text": "features are found here.\n",
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "title": "Learn Acrobat - Generative AI_1"
+    },
+    {
+      "page_number": 4,
+      "section_title": "Content usage and handling practices",
+      "text": "This FAQ addresses Adobe\u2019s content usage and handling practices specific to improving\ngenerative AI capabilities in Adobe Acrobat and Adobe Acrobat Reader. For purposes of this\nFAQ, references to \u201cgenerative AI capabilities\u201d are specific to Acrobat AI Assistant and\nGenerative summary only. To learn more about how Adobe may analyze metadata and\ninformation about your prompt (for example, question type) and document (for example,\nnumber of pages, document structure, document type, and other document statistics) for\nproduct improvement purposes in Document Cloud generally, see our content analysis FAQ.\nFor more information about Adobe\u2019s security, privacy, and AI ethics practices, see the Adobe\nDocument Cloud security page (and other materials in our Trust Center), the Adobe Privacy\nPolicy, and the Adobe AI Ethics page, respectively.\nWill adobe ever look at your content while you\u2019re using generative ai in acrobat and\nacrobat reader?\nWe do not look at your document, prompt(s), or generated responses except in the instances\ndescribed below.\n\u2022 Reported content, bugs, or vulnerabilities. When you report content (e.g., for being\nharmful, illegal, offensive, etc.), we investigate it by manually reviewing the document,\nprompt(s), and generated responses to make adjustments to the service to address the\nissue.\n\u2022 User-Provided Feedback. For Acrobat Individual users* and Acrobat Reader users that\nprovide feedback, you have the option to share with us your document, prompt(s),\nand generated responses during a document session for product improvement\npurposes that do not include training a Large Language Model (\u201cLLM\u201d). Examples of\nproduct improvement include improving the operability of generative AI in Acrobat\nand Acrobat Reader, as well as reducing hallucination, bias, and toxicity. If you do not\nwish to share your content, please uncheck the product improvement checkbox when\nyou first provide feedback on a document.\n",
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "title": "Learn Acrobat - Generative AI_1"
+    },
+    {
+      "page_number": 14,
+      "section_title": "If you have questions about the document, scroll to the bottom, and select Ask AI",
+      "text": "Assistant.\n",
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "title": "Learn Acrobat - Generative AI_1"
+    },
+    {
+      "page_number": 17,
+      "section_title": "Alternatively, in Acrobat Home, select All tools, then select AI Assistant or Generative",
+      "text": "summary tool.\n",
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "title": "Learn Acrobat - Generative AI_1"
+    },
+    {
+      "page_number": 23,
+      "section_title": "Rate your experience with the generative AI",
+      "text": "features\n",
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "title": "Learn Acrobat - Generative AI_1"
+    },
+    {
+      "page_number": 23,
+      "section_title": "Turn off generative AI features in Acrobat or Acrobat Reader",
+      "text": "desktop\n1. Close any open files. Then, navigate to Preferences > Generative AI.\n",
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "title": "Learn Acrobat - Generative AI_1"
+    },
+    {
+      "page_number": 23,
+      "section_title": "2. To turn off the generative AI features, deselect Enable generative AI features in",
+      "text": "Acrobat, and then select OK.\n",
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "title": "Learn Acrobat - Generative AI_1"
+    },
+    {
+      "page_number": 24,
+      "section_title": "3. To turn on the generative AI features again, select Enable generative AI features in",
+      "text": "Acrobat, and select OK.\n",
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "title": "Learn Acrobat - Generative AI_1"
+    },
+    {
+      "page_number": 25,
+      "section_title": "Customer Care to get the new Acrobat enabled for you, so you can access the generative AI",
+      "text": "features.\n",
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "title": "Learn Acrobat - Generative AI_1"
+    },
+    {
+      "page_number": 32,
+      "section_title": "Turn off AI Assistant",
+      "text": "If you don't require Al Assistant, you can turn it off from Preferences.\n1. Select the profile icon on your device.\n2. Select Preferences.\n3. Select the toggle next to Enable generative AI features in Acrobat.\n",
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "title": "Learn Acrobat - Generative AI_1"
+    },
+    {
+      "page_number": 4,
+      "section_title": "To prevent lost changes after an unexpected interruption, enable the Autosave feature, which",
+      "text": "is the default setting.\n",
+      "document": "Learn Acrobat - Export_1.pdf",
+      "title": "Learn Acrobat - Export_1"
+    },
+    {
+      "page_number": 5,
+      "section_title": "Set up automatic saving",
+      "text": "1. In the Preferences dialog box under Categories, select Documents.\n2. Select Automatically Save Document Changes To Temporary File Every xx Minutes (1-\n99), and specify the number of minutes.\n",
+      "document": "Learn Acrobat - Export_1.pdf",
+      "title": "Learn Acrobat - Export_1"
+    },
+    {
+      "page_number": 6,
+      "section_title": "4. In the Save as dialog, select a location where you want to save the file and then",
+      "text": "select Save.\n",
+      "document": "Learn Acrobat - Export_1.pdf",
+      "title": "Learn Acrobat - Export_1"
+    },
+    {
+      "page_number": 8,
+      "section_title": "If you want to use the same settings every time you convert PDFs to a particular format,",
+      "text": "specify those settings in the Preferences dialog box. In the Convert From PDF panel, select a\nfile format from the list and select Edit Settings. You can select the Defaults at the top of\nthe Save as Settings dialog box to revert to the default settings.\n",
+      "document": "Learn Acrobat - Export_1.pdf",
+      "title": "Learn Acrobat - Export_1"
+    },
+    {
+      "page_number": 8,
+      "section_title": "JPEG and JPEG 2000 conversion settings",
+      "text": "In Acrobat, select All tools > Export a PDF and select Image format. From the drop-down\nmenu next to Image format, select the format you want your image to be. You\nget JPEG and JPEG 2000 options. Select the settings icon to change the export\npreferences.\n",
+      "document": "Learn Acrobat - Export_1.pdf",
+      "title": "Learn Acrobat - Export_1"
+    },
+    {
+      "page_number": 9,
+      "section_title": "Color management",
+      "text": "RGB/CMYK/Grayscale\n",
+      "document": "Learn Acrobat - Export_1.pdf",
+      "title": "Learn Acrobat - Export_1"
+    },
+    {
+      "page_number": 9,
+      "section_title": "Specifies the type of color management to be applied to the output file and whether to",
+      "text": "embed an ICC profile.\nNote:\n",
+      "document": "Learn Acrobat - Export_1.pdf",
+      "title": "Learn Acrobat - Export_1"
+    },
+    {
+      "page_number": 9,
+      "section_title": "PDF to PNG conversion settings",
+      "text": "In Acrobat, select All tools > Export a PDF and select Image format. From the drop-down\nmenu next to Image format, select PNG. Select the settings icon to change the export\npreferences.\nPNG format is useful for images that are used on the web.\n",
+      "document": "Learn Acrobat - Export_1.pdf",
+      "title": "Learn Acrobat - Export_1"
+    },
+    {
+      "page_number": 10,
+      "section_title": "Interlace",
+      "text": "Specifies if the image is interlaced. None creates an image that displays in a web browser only\nafter downloading is complete. Adam7 creates an image that displays low-resolution versions\nin a browser while the full image file is downloading. Adam7 can make downloading time\nseem shorter and assures viewers that downloading is in progress; however, it increases file\nsize.\nFilter: Lets you select a filtering algorithm.\n\u2022 None: Compresses the image without a filter. Recommended for indexed-color\nand Bitmap-mode images.\n\u2022 Sub: Optimizes the compression of images with even horizontal patterns or blends.\n\u2022 Up: Optimizes the compression of images with even vertical patterns.\n\u2022 Average: Optimizes the compression of low-level noise by averaging the color values\nof adjacent pixels.\n\u2022 Paeth: Optimizes the compression of low-level noise by reassigning adjacent color\nvalues.\n\u2022 Adaptive: Applies the filtering algorithm\u2014Sub, Up, Average, or Paeth\u2014best suited for\nthe image. Select Adaptive if you are unsure of which filter to use.\n",
+      "document": "Learn Acrobat - Export_1.pdf",
+      "title": "Learn Acrobat - Export_1"
+    },
+    {
+      "page_number": 10,
+      "section_title": "Color management",
+      "text": "RGB/Grayscale\n",
+      "document": "Learn Acrobat - Export_1.pdf",
+      "title": "Learn Acrobat - Export_1"
+    },
+    {
+      "page_number": 10,
+      "section_title": "Specifies the type of color management for the output file and whether to embed an ICC",
+      "text": "profile.\n",
+      "document": "Learn Acrobat - Export_1.pdf",
+      "title": "Learn Acrobat - Export_1"
+    },
+    {
+      "page_number": 11,
+      "section_title": "PDF to TIFF conversion settings",
+      "text": "In Acrobat, select All tools > Export a PDF and select Image format. From the drop-down\nmenu next to Image format, select TIFF. Select the settings icon to change the export\npreferences.\n",
+      "document": "Learn Acrobat - Export_1.pdf",
+      "title": "Learn Acrobat - Export_1"
+    },
+    {
+      "page_number": 11,
+      "section_title": "Conversion",
+      "text": "Colorspace/Resolution\nSpecifies a color space and resolution for the output file. You can let Acrobat determine these\nsettings automatically. To convert color images in the file to shades of gray, choose Grayscale.\nNote:\nHigher resolutions, such as 2400 ppi, are suitable only for small page sizes (up to 6.826 inches\nor 173.380 millimeters).\nPDF to Microso\ufffd Word conversion se\ufffdngs\nIn Acrobat, select All tools > Export a PDF and select Microsoft Word. From the drop-down\nmenu next to Microsoft Word, select the format you want your document to be in. You\nget DOC and DOCX options. Select the settings icon to change the export preferences.\n",
+      "document": "Learn Acrobat - Export_1.pdf",
+      "title": "Learn Acrobat - Export_1"
+    },
+    {
+      "page_number": 13,
+      "section_title": "5. In the Save as dialog, select a location where you want to save the file and then",
+      "text": "select Save.\nPDF to RTF conversion se\ufffdngs\nIn Acrobat, select All tools > Export a PDF and select Other format. From the drop-down menu\nnext to Other format, select RTF. Select the settings icon to change the export\npreferences.\n",
+      "document": "Learn Acrobat - Export_1.pdf",
+      "title": "Learn Acrobat - Export_1"
+    },
+    {
+      "page_number": 15,
+      "section_title": "5. In the Save as dialog, select a location where you want to save the file and then",
+      "text": "select Save.\nPDF to HTML conversion se\ufffdngs\nIn Acrobat, select All tools > Export a PDF and select Other format. From the drop-down menu\nnext to Other format, select HTML. Select the settings icon to change the export\npreferences.\n",
+      "document": "Learn Acrobat - Export_1.pdf",
+      "title": "Learn Acrobat - Export_1"
+    },
+    {
+      "page_number": 17,
+      "section_title": "5. In the Save as dialog, select a location where you want to save the file and then",
+      "text": "select Save.\n",
+      "document": "Learn Acrobat - Export_1.pdf",
+      "title": "Learn Acrobat - Export_1"
+    },
+    {
+      "page_number": 18,
+      "section_title": "5. In the Save as dialog, select a location where you want to save the file and then",
+      "text": "select Save.\nPDF to Microso\ufffd Excel (XLSX or XML) conversion se\ufffdngs\nIn Acrobat, select All tools > Export a PDF and select Microsoft Excel. From the drop down\nmenu next to Microsoft Excel, select the format you want your Excel to be. You\nget XLSX and XML options. Select the settings icon to change the export preferences.\n",
+      "document": "Learn Acrobat - Export_1.pdf",
+      "title": "Learn Acrobat - Export_1"
+    },
+    {
+      "page_number": 21,
+      "section_title": "Introduction",
+      "text": "PDF to PS and EPS conversion se\ufffdngs\nIn Acrobat, select All tools > Export a PDF and select Other format. From the drop-down menu\nnext to Other format, select PS or EPS. Select the settings icon to change the export\npreferences.\n",
+      "document": "Learn Acrobat - Export_1.pdf",
+      "title": "Learn Acrobat - Export_1"
+    },
+    {
+      "page_number": 22,
+      "section_title": "Convert PDF to text",
+      "text": "To export a file in text format, go to All Tools > Export a PDF. Select other format, then the\ndrop-down next to other format, and then select TXT.\nPDF to Text and XML 1.0 conversion settings\nIn Acrobat, select All tools > Export a PDF and select Other format. From the drop-down\nmenu next to Other format, select TXT or XML 1.0. Select the settings icon to change the\nexport preferences.\n",
+      "document": "Learn Acrobat - Export_1.pdf",
+      "title": "Learn Acrobat - Export_1"
+    },
+    {
+      "page_number": 29,
+      "section_title": "You can paste the copied text into comments, bookmarks, and documents authored in",
+      "text": "other applications.\n",
+      "document": "Learn Acrobat - Export_1.pdf",
+      "title": "Learn Acrobat - Export_1"
+    },
+    {
+      "page_number": 12,
+      "section_title": "You can create multiple PDFs from multiple native files, including files of different supported",
+      "text": "formats, in one operation. This method is useful when you must convert a large number of files\nto PDF.\nNote: When you use this method, Acrobat applies the most recently used conversion settings\nwithout offering you access to those settings. If you want to adjust the conversion settings, do\nso before using this method.\n1. In Acrobat, select Create from the global bar.\n2. The Create a PDF tool opens. On the le\ufffd rail, select Mul\ufffdple files > Create mul\ufffdple\nPDF files, and then select Next.\n3. Choose Add Files > Add Files or Add Folders, and then select the files or folder.\n4. Select OK. The Output op\ufffdons dialog box appears.\n5. In the Output Op\ufffdons dialog box, specify your target folder and filename\npreferences, and then select OK.\nUsing PDFMaker within an authoring application is a simple, one-click procedure. It involves\nclicking an Acrobat PDFMaker toolbar button or choosing a command on the Adobe PDF menu.\n",
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "title": "Learn Acrobat - Create and Convert_1"
+    },
+    {
+      "page_number": 13,
+      "section_title": "Using Create PDF cloud service for PDF",
+      "text": "conversion\n",
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "title": "Learn Acrobat - Create and Convert_1"
+    },
+    {
+      "page_number": 14,
+      "section_title": "Show or activate PDFMaker in Microsoft Office and Lotus Notes",
+      "text": "If the PDF toolbar buttons don\u2019t appear in your Microsoft Office or Lotus Notes application, use\none of the following methods to show or activate PDFMaker.\nFor Lotus Notes 9, choose File > Preferences. In the dialog box that appears,\nchoose Toolbar > Toolbars, and select the Visible option for Acrobat PDFMaker.\nFor Microsoft Office, follow these steps:\n1. Select the File tab, and then choose Options.\n2. Select Add-Ins on the left side of the dialog box.\n3. Do one of the following:\n\u2022 If PDFMOutlook or Acrobat PDFMaker Office COM Add-in isn't listed, choose\nCOM Add-Ins from the Manage pop-up menu and select Go.\n\u2022 If PDFMOutlook or Acrobat PDFMaker Office COM Add-in is listed under\n",
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "title": "Learn Acrobat - Create and Convert_1"
+    },
+    {
+      "page_number": 18,
+      "section_title": "Convert files to a secured PDF and attach it to an email message",
+      "text": "(Outlook)\n",
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "title": "Learn Acrobat - Create and Convert_1"
+    },
+    {
+      "page_number": 19,
+      "section_title": "4. Follow the directions in the wizard that appears, as described in Start an email-based",
+      "text": "review.\n",
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "title": "Learn Acrobat - Create and Convert_1"
+    },
+    {
+      "page_number": 20,
+      "section_title": "View PDFMaker conversion settings",
+      "text": "PDFMaker conversion settings vary according to file types. For example, the options available\nfor PowerPoint files aren\u2019t the same as the options available for Outlook files. Once you\u2019ve\nselected conversion settings, those choices apply to all subsequent PDFs you create from that\nfile type. It\u2019s a good idea to review the settings occasionally.\n1. Open a PDFMaker-enabled application (such as Word or Excel).\n2. Do one of the following:\n\u2022 (Lotus Notes) Choose Actions > Change Adobe PDF Conversion Settings.\n\u2022 (Office 2010 applications) In the Acrobat or Adobe PDF ribbon,\nclick Preferences.\n\u2022 (All other applications) Choose Adobe PDF > Change Conversion Settings.\n3. (Optional) To revert to the original default settings, click Restore Defaults on\nthe Settings tab.\n",
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "title": "Learn Acrobat - Create and Convert_1"
+    },
+    {
+      "page_number": 20,
+      "section_title": "Convert Document Information",
+      "text": "Adds document information from the Properties dialog box of the source file. This setting\noverrides the printer preferences and settings in the Advanced panel of the Adobe PDF\nSettings dialog box.\nNote:\n",
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "title": "Learn Acrobat - Create and Convert_1"
+    },
+    {
+      "page_number": 21,
+      "section_title": "Creates the PDF so that it conforms to the selected ISO standard for long-term preservation of",
+      "text": "electronic documents.\n",
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "title": "Learn Acrobat - Create and Convert_1"
+    },
+    {
+      "page_number": 21,
+      "section_title": "Specifies a password you set that users must use in order to do any allowable printing or",
+      "text": "editing.\n",
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "title": "Learn Acrobat - Create and Convert_1"
+    },
+    {
+      "page_number": 21,
+      "section_title": "Specifies whether users who use the Permissions Password can print the document and at",
+      "text": "what resolution.\n",
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "title": "Learn Acrobat - Create and Convert_1"
+    },
+    {
+      "page_number": 24,
+      "section_title": "3. In the Save Adobe PDF As dialog box, select a location, type a filename, and",
+      "text": "click Save.\n",
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "title": "Learn Acrobat - Create and Convert_1"
+    },
+    {
+      "page_number": 27,
+      "section_title": "For information on setting up files for the Word Mail Merge feature, see Microsoft Office Word",
+      "text": "Help.\n",
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "title": "Learn Acrobat - Create and Convert_1"
+    },
+    {
+      "page_number": 28,
+      "section_title": "5. When the Browse For Folder dialog box appears, navigate to the location you want",
+      "text": "to use and click OK.\n",
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "title": "Learn Acrobat - Create and Convert_1"
+    },
+    {
+      "page_number": 29,
+      "section_title": "PDFs created from Visio files preserve page sizes and support layers, searchable text, custom",
+      "text": "properties, links, bookmarks, and comments, depending on the conversion settings. To specify\nthe properties\n\u2022 (Visio 2010) From the ribbon choose Acrobat > Preferences\n",
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "title": "Learn Acrobat - Create and Convert_1"
+    },
+    {
+      "page_number": 29,
+      "section_title": "Convert Visio files",
+      "text": "1. If you want to change the PDFMaker conversion settings, do the following. (For\ninformation about a setting, place the pointer over the setting to display a tool tip\nbelow.)\n\u2022 (Visio 2010) Choose Acrobat > Preferences\n",
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "title": "Learn Acrobat - Create and Convert_1"
+    },
+    {
+      "page_number": 29,
+      "section_title": "6. Select a layers option to retain or flatten layers in the resulting PDF, and",
+      "text": "click Continue.\n",
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "title": "Learn Acrobat - Create and Convert_1"
+    },
+    {
+      "page_number": 2,
+      "section_title": "Send a document to get signatures from",
+      "text": "others\n",
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "title": "Learn Acrobat - Request e-signatures_1"
+    },
+    {
+      "page_number": 24,
+      "section_title": "Signatures made with the Certify or Digitally sign options comply with data protection",
+      "text": "standards specified by the European Telecommunications Standards Institute (ETSI). In\naddition, both signature types comply with the PDF Advanced Electronic Signature (PAdES)\nstandard. Acrobat and Acrobat Reader provide an option to change the default signing format\nto a CAdES format. This option is compliant with Part 3 of the PAdES standard. The timestamp\ncapability and native support for long-term validation of signatures (introduced in Acrobat\n9.1) is in compliance with Part 4 of the PAdES standard. The default signing format, when set\nup accordingly, is compliant with Part 2 of the PAdES standard. You can change the default\nsigning method or format, in the Signatures panel of the Preferences dialog box. Under\nCreation & Appearance, click More.\n",
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "title": "Learn Acrobat - Request e-signatures_1"
+    },
+    {
+      "page_number": 24,
+      "section_title": "For information about using the Preview Document mode, see Sign in Preview",
+      "text": "Document mode.\n\u2022 Review all the pages in a document before you sign. Documents can contain signature\nfields on multiple pages.\n\u2022 Configure the signing application. Both authors and signers should configure their\napplication environment. (See Set signing preferences).\n",
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "title": "Learn Acrobat - Request e-signatures_1"
+    },
+    {
+      "page_number": 25,
+      "section_title": "Signing workflow preferences control what you can see and do when the signing dialog box",
+      "text": "opens. You can allow certain actions, hide and display data fields, and change how content\naffects the signing process. Setting signing preferences impacts your ability to see what you\nare signing. For information on the available signing preferences, see \u201cSigning Workflow\nPreferences\u201d in the Digital Signature Guide.\n",
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "title": "Learn Acrobat - Request e-signatures_1"
+    },
+    {
+      "page_number": 25,
+      "section_title": "You determine the look of your certificate-based signature by selecting options in the",
+      "text": "Signatures panel of the Preferences dialog box. For example, you can include an image of\nyour handwritten signature, a company logo, or a photograph. You can also create different\nsignatures for different purposes. For some, you can provide a greater level of detail.\n",
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "title": "Learn Acrobat - Request e-signatures_1"
+    },
+    {
+      "page_number": 25,
+      "section_title": "2. Right-click the signature field, and select Sign Document or Certify with Visible",
+      "text": "Signature.\nNote: You can also create an appearance using the Signature preferences:\nHamburger menu > Preferences > Signatures (Windows) or Acrobat >\nPreferences > Signatures (macOS).\n",
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "title": "Learn Acrobat - Request e-signatures_1"
+    },
+    {
+      "page_number": 26,
+      "section_title": "Displays only the default icon and other information specified in the Configure Text",
+      "text": "section.\n",
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "title": "Learn Acrobat - Request e-signatures_1"
+    },
+    {
+      "page_number": 26,
+      "section_title": "7. For Text Properties, specify the writing direction and type of digits used, and then",
+      "text": "click OK. See also Enable right-to-left languages.\n8. (Optional) If the dialog box includes the Additional Signature Information section,\nspecify the reason for signing the document, the location, and your contact\ninformation. These options are available only if you set them as your preferences in\nthe Creation and Appearance Preferences dialog box (Preferences > Signatures >\nCreation & Appearance > More).\n",
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "title": "Learn Acrobat - Request e-signatures_1"
+    },
+    {
+      "page_number": 26,
+      "section_title": "You must have an Internet connection to access a roaming ID and an account from an",
+      "text": "organization that supplies roaming digital IDs.\n1. Open the Preferences dialog box.\n2. Under Categories, select Signatures.\n3. For Identities & Trusted Certificates, select More.\n",
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "title": "Learn Acrobat - Request e-signatures_1"
+    },
+    {
+      "page_number": 27,
+      "section_title": "Directory servers are commonly used as centralized repositories of identities within an",
+      "text": "organization. The server acts as an ideal location to store user certificates in enterprises that\nuse certificate encryption. Directory servers let you locate certificates from network servers,\nincluding Lightweight Directory Access Protocol (LDAP) servers. After you locate a\ncertificate, you can add it to your list of trusted identities so that you don\u2019t have to look it up\nagain. By developing a storage area for trusted certificates, you or a member of your\nworkgroup can facilitate the use of encryption in the workgroup.\nFor more information about directory servers, see the Digital Signature Guide.\nImport directory server settings (Windows only)\nYou import directory server settings using security import/export methodology or a security\nsettings file. Before, you import settings in a file using import/export methodology, ensure\nthat you trust the file provider before opening it.\n1. Open the Preferences dialog box.\n2. Under Categories, select Signatures.\n3. For Document Timestamping, select More.\n4. Select Directory Servers on the left, and then select Import.\n5. Select the import/export methodology file and select Open.\n",
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "title": "Learn Acrobat - Request e-signatures_1"
+    },
+    {
+      "page_number": 28,
+      "section_title": "Although it is preferable to export security settings, you can export directory settings as an",
+      "text": "import/export methodology file. Use the file to configure the directory server on another\ncomputer.\n1. Open the Preferences dialog box.\n2. Under Categories, select Identity.\n3. Enter your name, organization, and email address to create your profile.\n4. Under Categories, select Signatures.\n5. For Document Timestamping, select More.\n",
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "title": "Learn Acrobat - Request e-signatures_1"
+    },
+    {
+      "page_number": 29,
+      "section_title": "To configure a timestamp server, you need the server name and the URL, which you can",
+      "text": "obtain from an administrator or a security settings file.\nIf you have a security settings file, install it and don\u2019t use the following instructions for\nconfiguring a server. Ensure that you obtained the security settings file from a trusted source.\nDon\u2019t install it without checking with your system administration or IT department.\n1. Open the Preferences dialog box.\n2. Under Categories, select Signatures.\n3. For Document Timestamping, click More.\n4. Select Time Stamp Servers on the left.\n5. Do one of the following:\n\u2022 If you have an import/export methodology file with the timestamp server\nsettings, click the Import button . Select the file, and select Open.\n\u2022 If you've a URL for the timestamp server, select the New button . Type a\nname, and then type the server URL. Specify whether the server requires a\nusername and password, then select OK.\n",
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "title": "Learn Acrobat - Request e-signatures_1"
+    },
+    {
+      "page_number": 30,
+      "section_title": "Set a timestamp server as the default",
+      "text": "To be able to use a timestamp server to timestamp signatures, set it as the default server.\n1. Open the Preferences dialog box.\n2. Under Categories, select Signatures.\n3. For Document Timestamping, click More.\n4. Select Time Stamp Servers on the left.\n5. Select the timestamp server, and click the Set Default button .\n6. Select OK to confirm your selection.\n",
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "title": "Learn Acrobat - Request e-signatures_1"
+    }
+  ]
+}
