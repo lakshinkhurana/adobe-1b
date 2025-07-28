@@ -64,7 +64,10 @@ adobe-1b/
 │   │   └── PDFs/
 │   ├── Collection 2/
 │   └── Collection 3/
-├── .cache/                     # Optional cache
+├── .embedding-cache/                     # Optional cache
+├── .gitignore                     
+├── LICENSE                    
+├── dockerfile               
 ├── README.md                   # This file
 └── requirements.txt            # Dependencies
 ```
