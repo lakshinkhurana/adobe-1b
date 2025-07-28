@@ -1,48 +1,100 @@
-# Persona-Driven Document Intelligence
 
-## Overview
-This tool extracts and prioritizes the most relevant sections from a collection of PDFs based on a given persona and job-to-be-done. It is designed to run fully offline, on CPU, and with a model size under 1GB.
+# Adobe 1B - Persona-Driven Document Intelligence
 
-## Features
-- PDF text extraction
-- Persona and job-to-be-done relevance analysis
-- Outputs structured JSON with metadata and extracted sections
-- Fast, lightweight, and offline
+This project was built for **Adobe's India Hackathon Challenge 1B** and focuses on developing an intelligent document processing system that surfaces the most relevant content from a collection of PDFs based on a given persona and task.
 
-## Installation
-1. Clone this repository or download the code.
-2. (Recommended) Create a virtual environment:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Download the required sentence-transformers model in advance (see below).
+## 🔍 Challenge Statement
 
-## Usage
-1. Place your PDF files in a folder (e.g., `./pdfs`).
-2. Run the main script:
-   ```bash
-   python main.py --pdf_dir ./pdfs --persona "PhD Researcher in Computational Biology" --job "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks"
-   ```
-3. The output will be saved as `output.json` in the project directory.
+> Given a collection of PDF documents and a defined persona with a job-to-be-done, extract the most relevant sections across documents that help the persona accomplish their goal.
 
-## Offline Model Download
-Before running offline, download the model with internet access:
-```python
-from sentence_transformers import SentenceTransformer
-SentenceTransformer('all-MiniLM-L6-v2')
+---
+
+## 🧠 Key Features
+
+- 📄 **PDF Sectioning**: Breaks down PDFs into sections using smart heading detection.
+- 🚫 **Noise Filtering**: Skips indexes, disclaimers, and other irrelevant sections.
+- 🔁 **Deduplication**: Removes repeated or redundant text blocks.
+- 🧬 **Sentence Embeddings**: Uses `sentence-transformers` to encode and compare text.
+- 🔎 **Semantic Search**: Ranks sections using cosine similarity to a query.
+- 🪄 **Summarization (Subsection Refinement)**: First-line summarization for extracted content.
+- 🧵 **Parallel Processing**: Multi-threaded PDF parsing for speed.
+- 🧪 **Fail-safe Logging**: Reports skipped sections and failed PDFs.
+
+---
+
+## 🧰 Tech Stack
+
+- **Python 3**
+- [`pdfplumber`](https://github.com/jsvine/pdfplumber)
+- [`sentence-transformers`](https://www.sbert.net/)
+- `scikit-learn`, `numpy`, `nltk`, `tqdm`
+- ThreadPoolExecutor for concurrency
+
+---
+
+## 🚀 How to Run
+
+### 1. Install Requirements
+
+```bash
+pip install -r requirements.txt
 ```
-This will cache the model locally. Afterward, you can run the script without internet access.
 
-## Constraints
-- CPU only
-- Model size < 1GB
-- No internet access at runtime
-- Processing time < 60s for 3-5 documents
+### 2. Run the Script
 
-## License
-MIT 
+```bash
+python 1b.py --pdf_dir "<path-to-pdfs>" --persona "<persona>" --job "<job-to-be-done>" --output "<output.json>"
+```
+
+### Example:
+
+```bash
+python 1b.py --pdf_dir "sample-dataset/Collection 3/PDFs" --persona "nutrition-conscious food enthusiast" --job "building a balanced and creative weekly meal plan that includes quick, healthy, and diverse recipes for breakfast, lunch, and dinner" --output "Collection3_output.json"
+```
+
+---
+
+## 📂 Repository Structure
+
+```
+adobe-1b/
+├── 1b.py                        # Main script
+├── sample-dataset/
+│   ├── Collection 1/
+│   │   └── PDFs/
+│   ├── Collection 2/
+│   └── Collection 3/
+├── .cache/                     # Optional cache
+├── README.md                   # This file
+└── requirements.txt            # Dependencies
+```
+
+---
+
+## 📝 Output JSON Format
+
+- `metadata`: input documents, persona, job, timestamp
+- `extracted_sections`: top relevant sections
+- `subsection_analysis`: brief preview sentences
+- `skipped_sections`: filtered noise/short sections
+
+---
+
+## 💡 Use Cases
+
+- Personalized document summarization
+- Knowledge retrieval from manuals, recipes, whitepapers
+- Role-specific onboarding material extraction
+
+---
+
+## 👤 Author
+
+**Lakshin Khurana and Yashvardhan Nayal**  
+GitHub: [@lakshinkhurana](https://github.com/lakshinkhurana) and [@YashvardhanNayal0212](https://github.com/YashvardhanNayal0212)
+
+---
+
+## 🏁 License
+
+This project is open-sourced for evaluation and educational purposes.
