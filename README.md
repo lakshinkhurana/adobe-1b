@@ -1,4 +1,3 @@
-
 # Adobe 1B - Persona-Driven Document Intelligence
 
 This project was built for **Adobe's India Hackathon Challenge 1B** and focuses on developing an intelligent document processing system that surfaces the most relevant content from a collection of PDFs based on a given persona and task.
@@ -51,7 +50,63 @@ python 1b.py --pdf_dir "<path-to-pdfs>" --persona "<persona>" --job "<job-to-be-
 ```bash
 python 1b.py --pdf_dir "sample-dataset/Collection 3/PDFs" --persona "nutrition-conscious food enthusiast" --job "building a balanced and creative weekly meal plan that includes quick, healthy, and diverse recipes for breakfast, lunch, and dinner" --output "Collection3_output.json"
 ```
+---
 
+## 🐳 Docker Build and Run Instructions
+
+This project is fully containerized for offline execution. Follow these steps to build and run the solution using Docker:
+
+### ✅ Step 1: Build the Docker Image
+
+Open your terminal in the project directory (where your `Dockerfile` is located) and run:
+
+```bash
+docker build --platform linux/amd64 -t persona-extractor:latest .
+```
+
+This command builds the Docker image named `persona-extractor` using the current directory context.
+
+---
+
+### ▶️ Step 2: Run the Docker Container
+
+Run the container using the following command:
+
+```bash
+docker run --rm ^
+  -v "%cd%\\pdfs:/app/pdfs" ^
+  -v "%cd%\\output:/app/output" ^
+  --network none ^
+  persona-extractor:latest ^
+  --pdf_dir /app/pdfs ^
+  --output /app/output/output.json ^
+  --persona "PhD Researcher in Computational Biology" ^
+  --job "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks"
+```
+
+> 🪟 **Note**: This command is tailored for **Windows Command Prompt** using `^` as line continuation and `%cd%` to map your local working directory.
+
+For **Linux/macOS**, use this version:
+
+```bash
+docker run --rm \
+  -v "$(pwd)/pdfs:/app/pdfs" \
+  -v "$(pwd)/output:/app/output" \
+  --network none \
+  persona-extractor:latest \
+  --pdf_dir /app/pdfs \
+  --output /app/output/output.json \
+  --persona "PhD Researcher in Computational Biology" \
+  --job "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks"
+```
+
+---
+
+> Ensure that:
+>
+> * `./pdfs` contains your input PDF files.
+> * `./output` exists (or will be created) for writing results.
+> * You replace the `persona` and `job` values with your specific use case.
 ---
 
 ## 📂 Repository Structure
